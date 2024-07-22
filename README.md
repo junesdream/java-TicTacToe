@@ -13,7 +13,7 @@ This project is a graphical implementation of the classic Tic-Tac-Toe game in Ja
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/junesdream/java-TicTacToe
     ```
 2. Open the project in your preferred Java development environment (e.g., IntelliJ IDEA).
 3. Make sure the JDK is correctly configured.
